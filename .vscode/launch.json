@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://codesandbox",
+            "request": "launch",
+            "url": "http://codesandbox"
+        }
+    ]
+}
